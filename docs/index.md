@@ -4,6 +4,9 @@ layout: "home"
 description: "We are going to work with a bit messier dataset now for the next few tasks. This is a citizen science dataset captured using an app called iNaturalist. The data was captured for a city nature challenge and shared on [data.world](https://data.world/). This activity will showcase some more features in OpenRefine. The goal of this activity is to create a new project with this citizen science dataset and work with the data. You will use clustering to improve the consistency of the dataset. You will also perform various manipulations, such as split and concatenate. Finally, you will learn various ways to remove columns and rows, and work with the Undo/Redo features in OpenRefine."
 permalink: "/"  #! Remove this if not the homepage
 staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
  - name: Nick Field
    link: https://library.utoronto.ca/staff/nick-field
 ---
