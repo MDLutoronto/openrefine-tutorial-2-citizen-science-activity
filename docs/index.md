@@ -35,13 +35,13 @@ Before you begin, please download the [OpenRefine workshop sample datasets](http
 
 Create a new project from the citizen science dataset and use the clustering feature
 ------------------------------------------------------------------------------------
-1. Let’s create a new project.**Start up OpenRefine** (if it isn’t running) or click on the **OpenRefine logo** on the top left to go to the main screen.
+1. Let’s create a new project. **Start up OpenRefine** (if it isn’t running) or click on the **OpenRefine logo** on the top left to go to the main screen.
 
     ***Note:** If you were working with another project, it has been automatically saved in OpenRefine and the files are stored locally on your computer. You can browse and revisit saved projects by clicking on Open Projects.*  
 
     ![Click on the OpenRefine logo to create a new project]({{ '/assets/images/openrefineworkshop16b.png' | relative_url }})
 
-2. Click on **Create Project**. Make sure **This Computer**is highlighted and then click on **Choose Files** and browse to the file **citizenscience.csv** and click on **Open.** Then click on **Next**.
+2. Click on **Create Project**. Make sure **This Computer** is highlighted and then click on **Choose Files** and browse to the file **citizenscience.csv** and click on **Open.** Then click on **Next**.
 
 3. OpenRefine has recognized the data as CSV. You should now see a preview screen that shows you all the records in the file, nicely laid out with rows and columns. It has some information on users making observations on wildlife in their local area. If that is what you see, keep the defaults, give your project a name at the top and click on **Create Project**.
 
@@ -81,7 +81,7 @@ Create a new project from the citizen science dataset and use the clustering fea
     
     ![Split column window]({{ '/assets/images/openrefineworkshop21a.png' | relative_url }})
 
-12. You'll see we now have two new columns to the right of scientific\_name: scientific\_name 1 \& scientific\_name 2\. From each column’s pull down menu, select **Edit column \> Rename this column**. For the first one, call it "genus". For the second one, call it "epithet".  
+12. You'll see we now have two new columns to the right of scientific\_name: scientific\_name 1 & scientific\_name 2\. From each column’s pull down menu, select **Edit column \> Rename this column**. For the first one, call it "genus". For the second one, call it "epithet".  
 
     ![From the newly split scientific_name columns, drop down on the first new column, go to Edit column, then click Rename this column.]({{ '/assets/images/openrefineworkshop22a.png' | relative_url }})
 
