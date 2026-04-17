@@ -202,5 +202,5 @@ That’s it for our citizen science dataset!
 
 [**OpenRefine Tutorial 3: Regular Expressions (Regex) Activity**](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-3-regular-expressions-regex-activity)
 
-Technique: [Cleaning data](/technique/cleaning-data) \| Tools: [OpenRefine](/tools/openrefine)  
+**Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)  
 **Date Created:** 2019\-03\-27 **Updated:** 2023\-10\-23
